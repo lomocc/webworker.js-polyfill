@@ -1,0 +1,10 @@
+node_modules/
+doc/
+src/
+.idea/
+.babelrc
+.editorconfig
+.esdoc.json
+.eslintrc
+yarn.lock
+.travis.yml

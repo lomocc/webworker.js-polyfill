@@ -1,0 +1,31 @@
+{
+  "globals": {
+    "uamsdk": false
+  },
+  "env": {
+    "browser": true,
+    "es6": true,
+    "node": true
+  },
+  "ecmaFeatures": {
+    "objectLiteralComputedProperties": true
+  },
+  "extends": "eslint:recommended",
+  "parser": "babel-eslint",
+  "parserOptions": {
+    "ecmaFeatures": {
+      "experimentalObjectRestSpread": true,
+      "jsx": true
+    },
+    "sourceType": "module"
+  },
+  "rules": {
+    "no-console":1,
+    "no-unused-vars":0,
+    "no-alert":2,
+    "no-eval":2,
+    "semi": [1, "always"],
+    "quotes": [1, "single"],
+    "no-fallthrough": 0
+  }
+}
