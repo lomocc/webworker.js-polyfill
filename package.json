@@ -24,5 +24,13 @@
   },
   "dependencies": {
     "file-loader": "^1.1.6"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lomocc/webworker.js-polyfill.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lomocc/webworker.js-polyfill/issues"
+  },
+  "homepage": "https://github.com/lomocc/webworker.js-polyfill#readme"
 }

@@ -1,5 +1,5 @@
 /**
- * worker-js
+ * webworker.js
  *
  * 用更简单的方式来创建 `Worker`
  */
