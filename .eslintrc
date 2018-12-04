@@ -1,6 +1,6 @@
 {
   "globals": {
-    "uamsdk": false
+    
   },
   "env": {
     "browser": true,
